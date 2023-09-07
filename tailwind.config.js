@@ -16,3 +16,7 @@ module.exports = {
   },
   plugins: [],
 }
+label.block.mb - 2.text - gray - 800 {
+    font - size: 25px;
+    text - align: center;
+}
