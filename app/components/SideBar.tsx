@@ -62,9 +62,14 @@ function SideBar() {
           <div className=" my-4 border-b border-gray-100 pb-4">
           <div className="flex  mb-2 justify-start items-center gap-4 pl-5 hover:bg-gray-900 p-2 rounded-md group cursor-pointer hover:shadow-lg m-auto">
               <h3 className="text-base text-white group-hover:text-white font-semibold ">
-                <Link href="/dashboard">Dashboard</Link>
-              </h3>
-            </div>
+               <Link href="/dashboard">Dashboard</Link>
+              </h3> 
+               </div>
+                <div className="flex  mb-2 justify-start items-center gap-4 pl-5 hover:bg-gray-900 p-2 rounded-md group cursor-pointer hover:shadow-lg m-auto">
+                 <h3 className="text-base text-white group-hover:text-white font-semibold ">
+                 <Link href="/customer">Search</Link>
+                 </h3>
+                      </div>
             {/* Dropdown for Orders */}
             <div
               className="flex mb-2 justify-start items-center text-white gap-4 pl-5 hover:bg-gray-900 p-2 rounded-md group cursor-pointer hover:shadow-lg m-auto active:bg-gray-900 "

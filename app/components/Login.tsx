@@ -39,7 +39,7 @@ const Login = () => {
       <img className='text-center' src='https://toykingdom.co.za/wp-content/uploads/2022/05/Toy-Kingdom-Logo.png' alt='logo' width={400} height={50}/>
       
       <div className="mb-4 mt-4">
-        <label htmlFor="email" className="block mb-2 text-gray-800">Email addresses</label>
+        <label htmlFor="email" className="block mb-2 text-gray-800">Email address</label>
         <input
           type="email"
           id="email"
@@ -70,7 +70,7 @@ const Login = () => {
         />
       </div>
 
-      <button type="submit" className="bg-gray-700 text-white px-4 py-2 rounded hover:bg-gray-900">
+      <button type="submit" className="bg-gray-700 text-white px-4 py-2 rounded hover:bg-gray-900,">
         Login
       </button>
     </form>

@@ -1,7 +1,16 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\app",
+    "\\app\\baby\\[order]",
+    "\\app\\buildabear\\shipped",
+    "\\app\\buildabear\\[order]",
+    "\\app\\collect\\packed",
+    "\\app\\collect\\picked",
+    "\\app\\collect\\[order]",
+    "\\app\\customer",
+    "\\app\\lib"
   ],
-  "SelectedNode": "\\C:\\Users\\Lance\\Source\\Repos\\tkbuild",
+  "SelectedNode": "\\tsconfig.json",
   "PreviewInSolutionExplorer": false
 }
