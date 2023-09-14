@@ -2,14 +2,14 @@
   "ExpandedNodes": [
     "",
     "\\app",
-    "\\app\\baby\\[order]",
-    "\\app\\buildabear\\shipped",
-    "\\app\\buildabear\\[order]",
+    "\\app\\collect",
     "\\app\\collect\\packed",
     "\\app\\collect\\picked",
+    "\\app\\collect\\shipped",
     "\\app\\collect\\[order]",
-    "\\app\\customer",
-    "\\app\\lib"
+    "\\app\\lib",
+    "\\app\\login",
+    "\\app\\orders"
   ],
   "SelectedNode": "\\tsconfig.json",
   "PreviewInSolutionExplorer": false
